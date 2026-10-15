@@ -1,0 +1,117 @@
+{
+  "slug": "priya-raman",
+  "name": "Priya Raman",
+  "pronouns": "she/her",
+  "title": "Ph.D. Student, Computer Science",
+  "headline": "Building systems that let small labs train big models without big budgets.",
+  "department": "School of Computing",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "I work on efficient distributed training and compiler support for sparse models. Previously SWE intern at a cloud startup; maintainer of two open-source ML tools.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Distributed ML",
+    "Compilers",
+    "Sparse models",
+    "HPC",
+    "Open source"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/",
+      "icon": "github"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "icon": "scholar"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Portfolio",
+      "url": "https://example.com",
+      "icon": "website"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SparseShard: Memory-aware partitioning for sparse transformers",
+      "venue": "MLSys",
+      "year": 2026,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    },
+    {
+      "title": "Cheap tricks for fast fine-tuning on one GPU",
+      "venue": "NeurIPS Workshop",
+      "year": 2025,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    }
+  ],
+  "projects": [
+    {
+      "title": "sparseshard",
+      "description": "PyTorch extension · 1.2k ★ on GitHub",
+      "url": "https://example.com"
+    },
+    {
+      "title": "dawgbench",
+      "description": "Reproducible benchmark suite for campus GPU clusters",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. Student, Computer Science",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#3fb950",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
